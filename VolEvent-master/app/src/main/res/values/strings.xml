@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">VolEvents</string>
+
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="email_field_hint">Email</string>
+    <string name="password_field_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="forgot_password_message_line_1">
+        Forgot your password, huh? How embarrassing…
+    </string>
+    <string name="forgot_password_message_line_2">
+        Don\'t worry. It happens to the best of us. Well, I mean, not me, but other people.
+        People like you.
+    </string>
+    <string name="forgot_password_message_line_3">
+        Promise you aren\'t trying to break into an account that isn\'t yours? Of course you do.
+        Okay, then we\'ll hook you up. If an account exists for the email address you gave,
+        we\'ll email you a temporary reset code.
+    </string>
+    <string name="forgot_password_message_line_4">
+        Keep in mind that this won\'t protect your account if the forces of evil have access
+        to your email too. Probably shouldn\'t use the same password for both,
+        but we both know you do anyways.
+    </string>
+    <string name="forgot_password_reset_code_field_hint">Enter the code here</string>
+    <string name="password_reset_code_submit_button">Save me!</string>
+
+    <!-- Main activity nav drawer menu items -->
+    <string-array
+        name="nav_drawer_menu_items">
+        <item>Upcoming Events</item>
+        <item>Organizations</item>
+        <item>Settings</item>
+    </string-array>
+
+    <!-- Activity titles -->
+    <string name="forgot_password_activity_title">Reset Password</string>
+
+</resources>
