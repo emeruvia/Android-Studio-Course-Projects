@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\195b25dd7a810ec40238541b22aa307143b8025e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_339ee20054518fa37b3370be638ff7d986fda33b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\23a92ff4076eeac5ca0b08df549a1657fe9f201d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86f074949122a02ce1c7babe87de9416712e189f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\2ece5bdedd631b1d830abfa376ab248767a0ca0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5472d74998d0f0fc72631c37374f5dc8bfee23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\4e366fa0bb3e5e057de5c3878c888bc44bcfc335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95b9cc273d5a5771b662c9f8395992f53187e39a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\b771aadde1fb9c6fbd620f8adb13f784b53da9c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e9ba4a9a16e235005630818f9133b5b317d897d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\fcc204bfef896677f9d42246db1de1e1c8bca6f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_854da0cddbc112394583d9abe6e179fcb68808e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\f137caa56af1b26b6652d9b0e4eef073603bebc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b40444c668d63db8a7922bf541c696cdaaec6f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_9cd6bb7889659db24e4dcaf43c936885c7d0d283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\8413533233e38e3a49f7f6710850c392dafc1b95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51849ff8114340d7dad9292f613f26c72f3880c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\599812edd6bd6fd039b671ed0c9e2e73ac8e87b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d9b2f037ce4ea7feb3966cd39234ee093e015f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\22484705898640e0eb968021b25e77498130a7e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfe6d5a2492fde6b11f236d0210b30c65a0388d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_2f70a701af1c9a1d6862a2938dfd289d1293ee35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\21ebdd00e080cdc8f2c2ea01a82d8794fda27fcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26e9ad34d361dde393dd31e514906581abdebe48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\a8478ea205b27ecd3400631a337d9a41a1071788\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c91eb85350f965e3bc4cde6634b88d522ac07cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\86b626e2841899b9f802b2d628df8acae716f46c\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8fe480cc31ab2dbfc9e3b01cf8dda8cdd9b79bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\def3db795cd2a12db0a8573a67147f6d4af423b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab3ad225e9a7b8b62c36f44addcb3b81d197cdf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\ac56dce6804cffa82e3c908d7e65ad7a9328b444\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_767347231c697a0e1ee62ed4f01aa180bdc380c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\b4365786753edce8e3dbd9c34368a3c091342c12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e29ea601e0db1bb6c12eca2a326d965e8796f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\326d134ff914c346ba4953a3fabec23b842964d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2994cef5813ed9e53004b4604e9ff56befbe1418\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\b8f1fdc2ee975963406ec17ea8dae3f010bbcc0c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b80f174f2cde07078db94622a055e666e7798b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\0d5c91c9127dc6645b06668d381d78947b2e6fe3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aa03cf47dce844f64a06eac098c5976d49b763dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\a86ff73ca0f5a02e53ada45b89797cfa6b5e00d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfe33954864f387cf599378ecfec344419c905e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\7f84bf5ce7519fd0f98c2c5278df9ca69eceae00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_613fbb96023e7bf05eddddb8e42c49355be276ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\22484705898640e0eb968021b25e77498130a7e3\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_c851ecc9a00f45a8c3c705eb0a77a12eed3be08d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\bbcc73f708bf5290c9ddc91ca282301127881f0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc790c81a882cb9ea75a35931e9f29f9a7b41065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\044d84811c4160377b1a5d7e0cc26c5e968bdadf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca7df96809d12c4f76f467d130a2bc3d1beeaa8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\a53d60bdab7e7a210b3ada1e6a7636cb904413d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_528e3165464fcbb15fca3faa1e87618a3bc7032b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\006809bf49cb45d08d307bcea7333421433afbde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fd155acaea015c8ab38c6d3d4dd25a2c607153c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\f1690a443384c579647333d7d74a9b290d68f7cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd114a4be7efc7e94369b163ac77c353c0f0cc2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\550a345c8bd0c815b980db8182f02cbb6dd976c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f5691b043bf2ba9d801fe32da60e3b45deeada2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\10a434cdcf8a35085fda652240d6c968049d95bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b914ac634f79f280a865ea1e4af98e101b209d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\85e0b63df8b4e984b7a3f34fa2a99e54de89c306\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6296a838e58ad0facdb01856e10ce057b57e19c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_2b1627d1e838b0176e1fc630dbebcbc28603ec52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7a31cbe8dd4751f12537daf7ea14f2d49e942f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\fb1fd056a9c3e0d703620c455030322dd82ad898\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1fef427860d96b458a1b019e7a5db9ef31bdb85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\e73c19abb847736c20511e52a6c691f9d9ee3963\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f9c837d5c09509aafff157f2875e9be23cd8c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\3516046780d72b388af866e960d4d2688a11f569\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd5720cb0b052e4df1bccd546603d3e017ae0491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\d73edb90f5d6d92f3dbc9bbec484ecd9cb7ed6de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_233019cabf323f9de6eedf37bb8806e9e9545ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="391532f2822866305a70c7a4f7bd9eab31207ea2">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_039bdcb4dcdcfb66d20bd5c3f0c0940f878f22d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\e00f30f9dc2de4c47909a672e54290b923e5d0c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7517fa46e078a1a0d743b8995ff541c885afbde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\1628c1c0403d037d44c52e8b7dfbf31d484e61e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8573fc3ef7383e3940d2156723f717cb1d23841b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\2711a9b9cc5fd0b63fdcd712b0ddac9eb7f99af4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aca36a19be9d360d3110a7c28e039a456b0f666e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\dc5a60e888e5d1d938a249ccd7879e97e88c1e46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c83f73a6311a9a1df6b8e7be5fbf281624ed215c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\14fde5524fd6de1f006cf686cd2ffa7a45ccb237\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d213fb2cdabbbc32cf90c55b59c85f9b64d34ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\31babc0cf536aa777d7274275305ee5b6ffeba43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2d3d5e4f0f0a72b391e68e297da1678aeb7e5d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\595e4735ae271fa8b9bd51f0c08d0cdeee153167\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0fbdb13b9ba602164112c85575f6ccdd9140c92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\a3e376c8d7c36400ab766c46b11ada88793afd81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17cf0d94ac21927aa259d13537e2e7bec8bc37d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\fee0dab75448e2c60dcf494967ccddf9816766cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8216675d2b0d43d93c2eb08ce4c646454f18d15d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\acd5741580223b5dfe1863a5ee309bae2c579c90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e36d98ebf528a466c06fa8353a091185bf84832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\49b16a3e5a6ebb4775abf2d7c46b2557b3b1e84f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54630674c6dd2a73c57d45f80e5a3d375abebb75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\5d38aa9190a8c8ed983e379d26b515db45d757b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f1688c2980f5e4985633b5fb6e5c3856789b02e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\8f7790cddb7653f5c1509282cbb5ed710b9db06e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18712ee81175799fc8be778444ec1f0a871be3b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\f81ff8f12a946da14969bec42822f14bc0c2c0fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41885cdfeb413a2f12c978e5829699ddbc038648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\86b626e2841899b9f802b2d628df8acae716f46c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46f74dcf0ea53aa51da9f92fd5ab24d0e4011ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\75be7b87f0f6a44070fc6bf7327438488145c08e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33a0ef422ba1a5bb3676f41f62191ea04d27c93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\d8e21e5ea1b3e8a7882b2f439dd1e7b6b31d52d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bc245bb2228f2e2634858bbe6833d4cad89620d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\10094c49212c8acbde76e20ea67679e6ab2c7762\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af934bac712b2a9b740f50acb7a585d0e947e9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\7e52354172e5b9a3a46215f3bd8e3ddb73b8e00f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_163e18d85a4be020be505ee37b6bcb5d578cf12b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\dc542b70a96816fdaa675d9bdcfe8c5b0e0d875e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7576f2c738a4c218e154231a3e2ec65ab4712256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\d7370eac21ceab92a5943857d765d69258024d21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_433f2998bfd156e65d977d42e58450a50bb4eb6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\275e3e86bbab7fa9e7c129763b63097f6a6b6606\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04dd7c98ab4440905311d390e283350f467a232a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\352c92041c40235a890bae11f6d5b0c555baf502\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52eca10e56cf43bc55eb404ca403adb6de431ac6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\56fd51d64a884349a5b5e8399b57035f1006b7e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8c159f7c491e1ff48d460e10759c514be0358fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_64813a0c1e4973531e7d26f507a3716d3cb99073\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SumringaH\.android\build-cache\af16e191f392fde493bf63ad061319d8a3fa8893\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_888c25ae1b056067b54ab24374b1dc829ce7ab74\classes.dex" />
+    </item>
+
+</items>

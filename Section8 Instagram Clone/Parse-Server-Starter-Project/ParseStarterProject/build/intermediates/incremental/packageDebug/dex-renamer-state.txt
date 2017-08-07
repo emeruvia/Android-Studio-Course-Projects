@@ -1,0 +1,7 @@
+#Mon Aug 07 18:50:05 EDT 2017
+base.0=C\:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_64813a0c1e4973531e7d26f507a3716d3cb99073
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_039bdcb4dcdcfb66d20bd5c3f0c0940f878f22d8\\classes.dex
+base.1=C\:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_039bdcb4dcdcfb66d20bd5c3f0c0940f878f22d8
+file.0=C\:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_64813a0c1e4973531e7d26f507a3716d3cb99073\\classes.dex
