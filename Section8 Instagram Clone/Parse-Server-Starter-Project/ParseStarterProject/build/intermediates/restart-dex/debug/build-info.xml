@@ -1,80 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="24"
+    api-level="25"
     build-mode="COLD"
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1502146685221"
-    token="-1722891408108256114"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1502293787817"
+    token="-215240031792816702"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="565" />
+        duration="222" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="44" />
+        duration="25" />
     <task
         name="verifier"
-        duration="6" />
+        duration="3" />
 
     <artifact
-        location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
         type="SPLIT" />
+    <artifact
+        location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1502146196401"
+        timestamp="1502293494111"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
             type="SPLIT_MAIN" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1502146685221"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1502293787817"
+        verifier="R_CLASS_CHANGE" >
         <artifact
-            location="C:\Users\SumringaH\OneDrive\Android_Studio\Section8 Instagram Clone\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "outputFile": "/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\SumringaH\\.android\\build-cache\\550a345c8bd0c815b980db8182f02cbb6dd976c6\\output\\res\\values-v19\\values.xml",
+                    "file": "/home/emg/.android/build-cache/aeadbb253312ea71969b67fc124f2a0f221102b7/output/res/values-v19/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

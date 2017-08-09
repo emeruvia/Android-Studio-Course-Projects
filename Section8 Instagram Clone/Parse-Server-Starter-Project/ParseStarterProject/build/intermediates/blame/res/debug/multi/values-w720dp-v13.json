@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "outputFile": "/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "C:\\Users\\SumringaH\\.android\\build-cache\\d73edb90f5d6d92f3dbc9bbec484ecd9cb7ed6de\\output\\res\\values-w720dp-v13\\values-w720dp-v13.xml",
+                    "file": "/home/emg/.android/build-cache/57728132bf8d96075b14337e25223533b4f3c3c9/output/res/values-w720dp-v13/values-w720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="play-services-contextmanager-9.4.0">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.android/build-cache/e00f30f9dc2de4c47909a672e54290b923e5d0c3/output/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.android/build-cache/e00f30f9dc2de4c47909a672e54290b923e5d0c3/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d9ff2842539ac9c8a97c6dc83bfa5e263ba0931c/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d9ff2842539ac9c8a97c6dc83bfa5e263ba0931c/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

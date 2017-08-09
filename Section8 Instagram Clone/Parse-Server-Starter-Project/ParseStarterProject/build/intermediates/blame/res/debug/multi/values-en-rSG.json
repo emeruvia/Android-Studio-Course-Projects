@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\SumringaH\\OneDrive\\Android_Studio\\Section8 Instagram Clone\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "outputFile": "/home/emg/Android-Projects/Android-N-Dev/Section8 Instagram Clone/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\SumringaH\\.android\\build-cache\\f1690a443384c579647333d7d74a9b290d68f7cf\\output\\res\\values-en-rSG\\values.xml",
+                    "file": "/home/emg/.android/build-cache/97efac96229c06f5f781cbc8101f897b9e766bdd/output/res/values-en-rSG/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
